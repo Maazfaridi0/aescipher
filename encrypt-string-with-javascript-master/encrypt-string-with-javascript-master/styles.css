@@ -1,0 +1,16 @@
+.notification {
+  margin-top: 30px;
+  padding: 1.25rem 1.5rem;
+}
+
+@media screen and (min-width: 769px) {
+  .column { min-width: 47%; }
+}
+
+.title, .subtitle {
+  text-align: center;
+}
+
+p {
+  word-wrap: break-word;
+}
